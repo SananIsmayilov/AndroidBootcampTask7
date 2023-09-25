@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="captiontext">Görüləcək işlər</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textviewcomponent1">Tamamlanmış</string>
+    <string name="buttoncomponent1">Yeni tapşırıq əlavə et</string>
+    <string name="buttoncomponent2"> Əlavə et</string>
+
+</resources>
