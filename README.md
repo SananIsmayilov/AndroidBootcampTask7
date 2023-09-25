@@ -7,7 +7,9 @@
 - Room Database <br/>
 - Coroutines <br/>
 - Viewmodel <br/>
-- Recyclerview <br/> <br/>
+- Recyclerview <br/> 
+- DataBinding <br/>
+- ViewBinding <br/><br/>
 # Screenshots : <br/>
 !["img"](https://github.com/SananIsmayilov/AndroidBootcampTask7/blob/master/Screenshots/Screenshot_20230925_164545%20(Phone).png) <br/> <br/>
 !["img"](https://github.com/SananIsmayilov/AndroidBootcampTask7/blob/master/Screenshots/Screenshot_20230925_164627%20(Phone).png) <br/> <br/>
